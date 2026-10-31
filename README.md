@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/header.gif" alt="Animated Credit Card Fraud Detection banner" width="100%">
+<img src="assets/header.gif" alt="Animated Credit Card Fraud Detection banner" width="100%">
 
 # Credit Card Fraud Detection
 ### Imbalanced classification • Precision–recall • Threshold selection • Business cost
@@ -104,7 +104,7 @@ If a classifier predicted every one of the 284,807 transactions as legitimate, i
 But it would catch **0 of the 492 fraud cases**. Its fraud recall would be zero. That is why this project focuses on measures that report how well the model handles the minority class.
 
 <div align="center">
-  <img src="images/class_imbalance.png" alt="Log scale chart showing many more legitimate transactions than fraud transactions" width="75%">
+  <img src="assets/class_imbalance.png" alt="Log scale chart showing many more legitimate transactions than fraud transactions" width="75%">
   <br><sub>Class counts for the full dataset. Log scale is used so the small fraud bar is visible.</sub>
 </div>
 
@@ -154,7 +154,7 @@ fraud_label = int(fraud_probability >= threshold)
 Reducing the threshold generally flags more transactions. This often increases recall, but can reduce precision by creating more false alarms.
 
 <div align="center">
-  <img src="images/pr_tradeoff_schematic.png" alt="Schematic precision recall tradeoff curve, not measured model output" width="75%">
+  <img src="assets/pr_tradeoff_schematic.png" alt="Schematic precision recall tradeoff curve, not measured model output" width="75%">
   <br><sub>Conceptual illustration only — actual model curves are plotted by the notebook after it is run.</sub>
 </div>
 
@@ -267,7 +267,7 @@ This is an educational project and should not be used to automatically block rea
 ---
 
 <div align="center">
-  <img src="images/footer.gif" alt="Animated project footer" width="100%">
+  <img src="assets/footer.gif" alt="Animated project footer" width="100%">
   <br>
   <sub>Made for learning about rare-event classification and practical model evaluation.</sub>
 </div>
