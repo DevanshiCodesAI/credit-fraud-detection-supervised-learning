@@ -9,7 +9,6 @@
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/blob/main/FraudDetection_SupervisedLearning.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-1769aa?style=for-the-badge" alt="Open notebook"></a>
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/raw/refs/heads/main/FraudDetection_SupervisedLearning.ipynb"><img src="https://img.shields.io/badge/⬇_Download-Python_Notebook-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Download Python notebook"></a>
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/blob/main/Practical%20Exam%20_%20Set%20C.pdf"><img src="https://img.shields.io/badge/📝_Question_File-Practical_Exam_Set_C-7b61a8?style=for-the-badge" alt="Question file"></a>
-  <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/blob/main/Practical%20Exam%20_%20Set%20C.pdf"><img src="https://img.shields.io/badge/📚_Theory_PDF-Exam_Brief-8a5cb5?style=for-the-badge" alt="Theory PDF"></a>
   <a href="#video-explanation"><img src="https://img.shields.io/badge/▶_Video_Explanation-Add_video_link-d94141?style=for-the-badge" alt="Video explanation"></a>
 </p>
 
