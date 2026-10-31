@@ -9,7 +9,7 @@
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/blob/main/FraudDetection_SupervisedLearning.ipynb"><img src="https://img.shields.io/badge/📓_Open-Notebook-1769aa?style=for-the-badge" alt="Open notebook"></a>
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/raw/refs/heads/main/FraudDetection_SupervisedLearning.ipynb"><img src="https://img.shields.io/badge/⬇_Download-Python_Notebook-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Download Python notebook"></a>
   <a href="https://github.com/DevanshiCodesAI/credit-fraud-detection-supervised-learning/blob/main/Practical%20Exam%20_%20Set%20C.pdf"><img src="https://img.shields.io/badge/📝_Question_File-Practical_Exam_Set_C-7b61a8?style=for-the-badge" alt="Question file"></a>
-  <a href="#video-explanation"><img src="https://img.shields.io/badge/▶_Video_Explanation-Add_video_link-d94141?style=for-the-badge" alt="Video explanation"></a>
+  <a href="https://drive.google.com/file/d/197y5Um4xMFnYWCbk3sb3n8QyJJKV-2i1/view?usp=sharing"><img src="https://img.shields.io/badge/▶_Video_Explanation-Add_video_link-d94141?style=for-the-badge" alt="Video explanation"></a>
 </p>
 
 <p>
@@ -249,7 +249,7 @@ print('Fraud' if label else 'Legitimate')
 
 <div id="video-explanation"></div>
 
-**Video link:** _Add your Google Drive share link or unlisted YouTube URL here._
+**Video link:** https://drive.google.com/file/d/197y5Um4xMFnYWCbk3sb3n8QyJJKV-2i1/view?usp=sharing
 
 To make the video button above open your recording, replace its `href="#video-explanation"` with your share URL. The practical exam asks for a 5–10 minute recording with your face and screen visible while you explain the notebook and saved model.
 
